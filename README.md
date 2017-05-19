@@ -1,4 +1,6 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
+- [Running the server](#)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
